@@ -1,0 +1,22 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyoilll/TypeScript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyoilll/TypeScript-practice/issues"
+  },
+  "homepage": "https://github.com/hyoilll/TypeScript-practice#readme",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
